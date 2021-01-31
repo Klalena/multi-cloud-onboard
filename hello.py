@@ -6,5 +6,3 @@ def add(var_x, var_y):
     return var_x + var_y
 
 
-RESULT = add(3, 2)
-print(f"This is the sum of 3 and 2, which is {RESULT}")
