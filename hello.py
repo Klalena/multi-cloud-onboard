@@ -1,9 +1,9 @@
 """This module has an add function that adds two inputs. """
 
 
-def add(vab_x, var_y):
+def add(var_x, var_y):
     """This function adds x and y and return their sum."""
-    return vab_x + var_y
+    return var_x + var_y
 
 
 RESULT = add(3, 2)
